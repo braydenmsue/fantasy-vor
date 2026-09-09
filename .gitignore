@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Cached source pulls
+data/*.parquet
+
+# Saved draft state
+draft.json
